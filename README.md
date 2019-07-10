@@ -1,2 +1,3 @@
 # exercises
-fsjs exercises
+
+A repo of JavaScript exercises
