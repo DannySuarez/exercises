@@ -1,0 +1,2 @@
+# exercises
+fsjs exercises

@@ -1,0 +1,17 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "npm run test -- --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "jest": "^24.8.0"
+  }
+}
